@@ -1,8 +1,10 @@
 body{
-  background-image: url("https://szftlgs.com/wp-content/uploads/data/2018/1/7/blue-cute-transparent-tumblr-Favimcom-PIC-WSW1065135.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xvH1v8LLtUJEW2H0_S_i3G7_-rFrpwDVR9kAudqGV1cC7DqeXA");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Gloria Hallelujah', cursive;
+  color: black;
+  text-decoration: none;
 }
 ul{
   text-align: center;
@@ -18,7 +20,7 @@ li{
   text-decoration: none;
   font-size:30px;
 }
-a{
+ nav ul li a{
   color: white;
   text-decoration: none;
 }
@@ -33,13 +35,14 @@ a{
 #nav li a:active{
   background-color: green;
 }
-#intro{
+#intro p{
   font-size: 30px;
   color:black;
 }
-#into p{
-  float:right;
+#intro{
+  display:flex;
+  flex-direction: row-reverse;
 }
-#intro img{
-  float:left;
+
+
 }
