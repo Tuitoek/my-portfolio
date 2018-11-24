@@ -1,5 +1,10 @@
-*{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPgDbUviAVaxVctQ0yMZV4OCjZF4y_I05hfx0JyoFvMsuCy7JXQ");
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTtCRYqgOqbaW27SclAVUyw4iGee8Z3O4xR9RfVLFEcalVIMgew");
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Signika', sans-serif;
+}
+body{
+  font-size:30px;
+  float:right;
 }
