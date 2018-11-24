@@ -1,0 +1,15 @@
+body{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVCrWvlAyLTq1YmLqCv055L9Vnklgudk2L3XM0oZs8m4iHxJrz");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 30px;
+  color:white;
+  text-decoration: none;
+}
+#hobbies{
+  float:right;
+}
+#hobbies h1,h2{
+  text-decoration: underline;
+}
