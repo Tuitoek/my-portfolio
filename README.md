@@ -1,6 +1,6 @@
 # my_portfolio
 #### This is my portfolio website,24/11/2018.
-#### By **{Sarah Tuitoek}**
+#### By **Sarah Tuitoek**
 ## Description
 This is a detaailed portfolio of my website in case you need me to do something for you.
 ## Setup/Installation Requirements
